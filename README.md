@@ -10,4 +10,4 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yigitbun" />
 </a>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yigitbun&theme=tokyonight)](https://git.io/streak-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yigitbun&theme=tokyonight)](https://git.io/streak-stats)
