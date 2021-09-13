@@ -2,6 +2,7 @@
 
 
 ![](https://komarev.com/ghpvc/?username=yigitbun)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=yigitbun.yigitbun)
 
 ## My GitHub Stats 📊
 <a href="https://github.com/anuraghazra/github-readme-stats">
