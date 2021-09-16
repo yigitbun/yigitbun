@@ -1,5 +1,5 @@
 ### Hi there 👋
-### My Portfolio Website
+### You can check my portfolio website here: yigitbun.github.io [GitHub Pages](https://pages.github.com/).
 <a href="https://yigitbun.github.io/">yigitbun.github.io</a>
 
 
