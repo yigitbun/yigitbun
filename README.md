@@ -1,6 +1,5 @@
 ### Hi there 👋
-### You can check my portfolio website here: yigitbun.github.io [GitHub Pages](https://pages.github.com/).
-<a href="https://yigitbun.github.io/">yigitbun.github.io</a>
+#### You can check my portfolio website here: [yigitbun.github.io](https://yigitbun.github.io/).
 
 
 ![](https://komarev.com/ghpvc/?username=yigitbun)
